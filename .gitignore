@@ -51,5 +51,11 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+# Preproceessed files
+*.i
+
+# Assembler files
+*.s
+
 # VS Code Settings
 .vscode/settings.json
