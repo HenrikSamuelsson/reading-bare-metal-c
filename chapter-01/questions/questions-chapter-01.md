@@ -10,4 +10,4 @@ The manual can be a bit dry to read so an alternative can be to go through a tut
 
 ## Question 2
 
-C is portable between different types of machines. If using only standard C features and best practices for portability so can a C program be ported between different platforms. This is done by compiling an executable for the desired platform.
+C is portable between different types of machines. If using only standard C features and best practices for portability so can a C program be ported between different types of machines. This is done by compiling an executable for the desired machine.
