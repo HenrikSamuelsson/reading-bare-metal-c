@@ -11,3 +11,7 @@ The manual can be a bit dry to read so an alternative can be to go through a tut
 ## Question 2
 
 C is portable between different types of machines. If using only standard C features and best practices for portability so can a C program be ported between different types of machines. This is done by compiling an executable for the desired machine.
+
+## Question 3
+
+Assembly languages are not portable due to being tied to a specific machine architecture. A program written in one assembly language would need to be rewritten for it to run on another type of machine. Portability is one of the main advantages of higher-level languages such as C.
