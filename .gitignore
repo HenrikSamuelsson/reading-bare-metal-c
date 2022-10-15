@@ -60,3 +60,8 @@ dkms.conf
 
 # VS Code Settings
 .vscode/settings.json
+
+# STM32CubeIDE (Eclipse based IDE) settings
+*.cproject
+*.project
+*.settings/
