@@ -65,3 +65,6 @@ dkms.conf
 *.cproject
 *.project
 *.settings/
+
+# Ignore some exercise project folders with low value content
+blink-project/
